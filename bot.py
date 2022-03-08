@@ -389,7 +389,7 @@ async def start(event):
         await event.respond("SEND THIS ERROR TO - @sessionhack_chat\n**LOGS**\n" + str(e))
 
     else:
-      await event.respond("Wrong Text Found Re type /Navya and use")
+      await event.respond("Wrong Text Found Re type /Hack and use")
 
 
 
