@@ -144,7 +144,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "TheXArmy"
+channel = "TAG_FBAN"
 menu = '''
 
 **NOTICE JOIN @ALLF_BAN FEDERATION**
